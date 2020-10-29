@@ -264,15 +264,15 @@
     <ClInclude Include="Uploader.h" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\thirdparty\minizip\minizip_vs2010.vcxproj">
+    <ProjectReference Include="..\thirdparty\minizip\minizip_vs2013.vcxproj">
       <Project>{42cf0266-f5ef-4a0b-9759-d733fc17539b}</Project>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
-    <ProjectReference Include="..\thirdparty\tinyxml\tinyxml_vs2010.vcxproj">
+    <ProjectReference Include="..\thirdparty\tinyxml\tinyxml_vs2013.vcxproj">
       <Project>{401179b1-c7e1-47a5-999d-67aa43be9abf}</Project>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
-    <ProjectReference Include="..\thirdparty\zlib\zlib_vs2010.vcxproj">
+    <ProjectReference Include="..\thirdparty\zlib\zlib_vs2013.vcxproj">
       <Project>{2474addd-656e-4f6b-81e5-38160e37c782}</Project>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>

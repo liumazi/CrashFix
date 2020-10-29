@@ -115,11 +115,11 @@
     <ClInclude Include="stdafx.h" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\libdumper\libdumper_vs2010.vcxproj">
+    <ProjectReference Include="..\libdumper\libdumper_vs2013.vcxproj">
       <Project>{d1194826-8737-485c-bb8c-e0fb2ec95365}</Project>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
-    <ProjectReference Include="..\libtest\libtest_vs2010.vcxproj">
+    <ProjectReference Include="..\libtest\libtest_vs2013.vcxproj">
       <Project>{1f77cf65-8e2a-46cc-9df3-0d5069aa2520}</Project>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>

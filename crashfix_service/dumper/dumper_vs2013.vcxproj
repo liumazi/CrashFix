@@ -197,7 +197,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\libdumper\libdumper_vs2010.vcxproj">
+    <ProjectReference Include="..\libdumper\libdumper_vs2013.vcxproj">
       <Project>{d1194826-8737-485c-bb8c-e0fb2ec95365}</Project>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
