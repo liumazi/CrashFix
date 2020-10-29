@@ -24,7 +24,7 @@
 /crashfix_service/service_installer/NSISPlugins/*.exp
 /crashfix_service/thirdparty/minizip/Debug
 /crashfix_service/thirdparty/minizip/Release
-/crashfix_service/service_installer/NSISPlugins/*.lib
+/crashfix_service/service_installer/NSISPlugins/nsis_plugin*
 /crashfix_service/thirdparty/tinyxml/Debug
 /crashfix_service/thirdparty/tinyxml/Release
 /crashfix_service/thirdparty/zlib/Debug
