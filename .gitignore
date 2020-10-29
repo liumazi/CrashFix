@@ -41,3 +41,6 @@
 /crashfix_webapp/assets
 /crashfix_webapp/nbproject
 /crashfix_webapp/protected/runtime
+*.opensdf
+*.sdf
+*.vcxproj.user
