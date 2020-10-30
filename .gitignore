@@ -1,4 +1,6 @@
 /crashfix_service/bin
+/crashfix_service/ipch
+/crashfix_service/conf/crashfixd.conf
 /crashfix_service/daemon/Debug
 /crashfix_service/daemon/Release
 /crashfix_service/daemon_tests/Debug
