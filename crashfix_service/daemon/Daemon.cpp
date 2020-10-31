@@ -1714,7 +1714,7 @@ void WINAPI CDaemon::ServiceMain(DWORD dwArgc, PWSTR *pszArgv)
 	CDaemon* pDaemon = CDaemon::GetInstance();
 
 	// Report initial status to the SCM
-    pDaemon->SetServiceStatus( SERVICE_START_PENDING, NO_ERROR, 3000 );
+    pDaemon->SetServiceStatus( SERVICE_START_PENDING, NO_ERROR, 3000);
 
 	// Init service
 	pDaemon->SetMonitorOption(MO_IS_MONITOR, -1);

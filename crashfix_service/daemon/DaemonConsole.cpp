@@ -252,11 +252,8 @@ int CDaemonConsole::Run(int argc, char* argv[])
     }
 
 exit:
-
 	m_pDaemon = NULL;
-
     return m_sErrorMsg.empty()?0:1;
-
 }
 
 std::string CDaemonConsole::GetErrorMsg()
