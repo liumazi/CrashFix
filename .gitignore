@@ -19,6 +19,7 @@
 /crashfix_service/libtest/Debug
 /crashfix_service/libtest/Release
 /crashfix_service/libtest/libtest_vs2010.vcxproj.user
+/crashfix_service/logs
 /crashfix_service/nsis_plugin/Debug
 /crashfix_service/nsis_plugin/Release
 /crashfix_service/nsis_plugin/nsis_plugin.vcxproj.user
